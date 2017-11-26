@@ -7,6 +7,6 @@ Instructions for running the scraping code:
 
 2. Log in or sign up to [Twitter](https://twitter.com/).
 
-3. Getting tokens from [apps.twitter.com](https://apps.twitter.com/) for API access.
+3. Get tokens from [apps.twitter.com](https://apps.twitter.com/) for API access.
 
 4. Run the code with `python scrape.py`.
